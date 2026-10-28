@@ -1,4 +1,4 @@
-# Avanzi-Food-Redistribution-Web-App-MERN-Stack-
+# Avanzi-Food-Redistribution-Web-App
 Avanzi is a full-stack web application that bridges the gap between hotels with surplus food and NGOs in need. It provides a platform where hotels can list excess food, and NGOs can claim and redistribute it to reduce food wastage and help communities.
 
 # Features
