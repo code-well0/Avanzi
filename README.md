@@ -1,4 +1,4 @@
-# Aavanzi-Food-Redistribution-Web-App-MERN-Stack-
+# Aavanzi-Food-Redistribution-Web-App
 Aavanzi is a full-stack web application that bridges the gap between hotels with surplus food and NGOs in need. It provides a platform where hotels can list excess food, and NGOs can claim and redistribute it to reduce food wastage and help communities.
 
 # Features
@@ -15,9 +15,5 @@ Aavanzi is a full-stack web application that bridges the gap between hotels with
 3. Database: MongoDB
 4. Authentication: JWT (JSON Web Token)
 4. Other Tools: Git, GitHub, REST APIs
-
-Register Page
-
-<img width="1400" height="924" alt="Aavanzi-image" src="https://github.com/user-attachments/assets/88a8ad1d-e596-44d6-ac69-bc1a52483061" />
 
 
