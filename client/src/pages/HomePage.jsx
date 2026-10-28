@@ -115,7 +115,7 @@ const HomePage = () => {
                 color="text.secondary"
                 sx={{ mb: 3.5, maxWidth: 520, fontWeight: 400, lineHeight: 1.65 }}
               >
-                Good food should reach people, not a landfill. Aavanzi brings kitchens, community groups, and local
+                Good food should reach people, not a landfill. avanzi brings kitchens, community groups, and local
                 volunteers together to make that happen.
               </Typography>
               <Box sx={{ display: 'flex', flexWrap: 'wrap', gap: 1.5, alignItems: 'center' }}>
@@ -264,7 +264,7 @@ const HomePage = () => {
             Millions of meals are wasted while millions go hungry.
           </Typography>
           <Typography variant="body1" sx={{ maxWidth: 700, mx: 'auto', mt: 3, fontSize: '1.2rem' }}>
-            Aavanzi bridges this painful gap by redirecting surplus food to hungry hands. Donations become effortless,
+            avanzi bridges this painful gap by redirecting surplus food to hungry hands. Donations become effortless,
             tracking is transparent, and impact is immediate — ensuring meals feed people, not landfills.
           </Typography>
         </Container>
@@ -368,7 +368,7 @@ const HomePage = () => {
         align="center"
         sx={{ mb: 6, maxWidth: 700, mx: 'auto', color: 'text.secondary' }}
       >
-        Powering Aavanzi with a modern, scalable, and efficient technology stack to ensure seamless performance and reliability.
+        Powering avanzi with a modern, scalable, and efficient technology stack to ensure seamless performance and reliability.
       </Typography>
 
       {/* Centered Grid */}
@@ -451,7 +451,7 @@ const HomePage = () => {
                 Who We Are
               </Typography>
               <Typography variant="body1" color="text.secondary">
-                Aavanzi was born from a simple belief — food should feed people, not landfills. We’re a small team with a
+                avanzi was born from a simple belief — food should feed people, not landfills. We’re a small team with a
                 big mission: stop edible food from being wasted and connect it to communities in need.
               </Typography>
             </Grid>

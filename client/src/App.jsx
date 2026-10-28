@@ -8,13 +8,13 @@ import ProtectedRoute from './components/ProtectedRoute';
 import BackgroundAnimation from './components/BackgroundAnimation'; // <-- IMPORT
 import VolunteerDashboard from './pages/VolunteerDashboard';
 import RegisterFormPage from './pages/RegisterFormPage';  
-import Footer from './components/footer'; 
+import Footer from './components/Footer';
 
 
 // Import Pages
 import HomePage from './pages/HomePage';
 import RegisterPage from './pages/RegisterPage';
-import LoginPage from './pages/LoginPage';
+import LoginPage from './pages/loginPage';
 import DashboardPage from './pages/DashboardPage';
 
 function App() {

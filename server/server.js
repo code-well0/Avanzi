@@ -35,7 +35,7 @@ app.use('/api/users', userRoutes);
 
 // 6. ROOT ROUTE
 app.get('/', (req, res) => {
-    res.status(200).json({ message: "Welcome to the Aavanzi API! 🍔" });
+    res.status(200).json({ message: "Welcome to the avanzi API! 🍔" });
 });
 
 // 7. CONNECT TO DB & START SERVER

@@ -32,7 +32,7 @@ const RegisterPage = () => {
 
     return (
         <Container maxWidth="lg" sx={{ textAlign: 'center', py: 8 }}>
-            <Typography variant="h3" gutterBottom>Join Aavanzi</Typography>
+            <Typography variant="h3" gutterBottom>Join avanzi</Typography>
             <Typography variant="h6" color="text.secondary" sx={{ mb: 6 }}>
                 Choose your role to get started.
             </Typography>

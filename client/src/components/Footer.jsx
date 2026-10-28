@@ -17,7 +17,7 @@ const Footer = () => {
         >
             <Container maxWidth="lg" sx={{ textAlign: 'center' }}>
                 <Typography variant="h6" gutterBottom>
-                    Aavanzi
+                    avanzi
                 </Typography>
                 <Typography variant="subtitle1" color="text.secondary" component="p">
                     Share More, Waste Less.
@@ -25,7 +25,7 @@ const Footer = () => {
                 <Typography variant="body2" color="text.secondary" sx={{ mt: 2 }}>
                     {'Copyright © '}
                     <Link color="inherit" href="#">
-                        Aavanzi
+                        avanzi
                     </Link>{' '}
                     {new Date().getFullYear()}
                     {'.'}
